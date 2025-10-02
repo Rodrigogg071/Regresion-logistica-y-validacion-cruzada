@@ -31,13 +31,14 @@ A continuación, se describen las variables incluidas en el dataset:
 | **weight**     | Continua     | Peso del automóvil (libras)                                    |
 | **acceleration** | Continua   | Tiempo en segundos para acelerar de 0 a 60 mph                 |
 | **model_year** | Entera       | Año del modelo (70 = 1970, etc.)                              |
-| **origin_1**     | Binaria       | Procedencia del automóvil (1 = EE.UU., 0 = otro)   |
+| **origin**     | Entera       | Procedencia del automóvil (1 = EE.UU., 2 = Europa, 3 = Asia)   |
+| **car_name**   | Categórica   | Nombre del automóvil (marca y modelo, usado como identificador)|
 
 ---
 
 
-<a href="././A2.2%20611471.ipynb" download>Reporte en formato ipynb</a>  
+<a href="././A2.1%20611471.ipynb" download>Reporte en formato ipynb</a>  
 
-[Reporte en formato html](./A2.2%20611471.html) 
+[Reporte en formato html](./A2.1%20611471.html) 
 
-<a href="auto_mpg_2.csv" download>Base de datos</a>  
+<a href="auto_mpg.csv" download>Base de datos</a>  
